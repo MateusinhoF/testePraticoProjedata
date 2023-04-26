@@ -19,7 +19,6 @@ public class ListFuncionario {
 
     public ListFuncionario() { 
         this.listFuncionarios = new ArrayList<Funcionario>();
-        //this.map = new HashMap<String, List<Funcionario>>();
     }
 
     public void inserir(Funcionario funcionario){
